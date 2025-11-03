@@ -1,4 +1,4 @@
-# IMF Financial Inclusion Analysis
+# IMF Financial Inclusion Analysis of Southern Africa
 ![IMF Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/500px-IMF-Seal_ENG_RGB.svg.png)
 ## EXECUTIVE SUMMARY
 
