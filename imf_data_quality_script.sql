@@ -12,7 +12,7 @@ SELECT
 FROM imf_staging_table
 WHERE `2024` REGEXP '^-?[0-9]+(\\.[0-9]+)?$';
 
--- 9️⃣ OPTIONAL: VIEW PRE-CALCULATED STATS
+-- VIEW PRE-CALCULATED STATS
 SELECT * FROM imf_stats;
 
 -- 1. COMPLETENESS CHECK
@@ -225,7 +225,7 @@ WHERE COUNTRY IN ('Angola','Botswana','Comoros','Eswatini','Lesotho','Madagascar
 ;
 
 
--- 7️⃣ COMBINE ALL FINDINGS INTO ONE SUMMARY TABLE
+-- COMBINE ALL FINDINGS INTO ONE SUMMARY TABLE
 DROP TEMPORARY TABLE IF EXISTS imf_data_quality_summary;
 CREATE TEMPORARY TABLE imf_data_quality_summary AS
 SELECT * FROM completeness_check
@@ -235,6 +235,6 @@ UNION ALL
 SELECT * FROM uniqueness_check
 ;
 
--- 8️⃣ VIEW SUMMARY RESULTS
+-- VIEW SUMMARY RESULTS
 SELECT * FROM imf_data_quality_summary;
 -- ------------------------------------------------------------
