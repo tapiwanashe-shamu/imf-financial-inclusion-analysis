@@ -10,3 +10,4 @@ ACCURACY,Rows with wrong data types,1205
 ACCURACY,Rows with wrong data types (% of SADC records),16.09
 UNIQUENESS,Number of duplicate records,5992
 UNIQUENESS,Number of duplicate records (%),80
+
