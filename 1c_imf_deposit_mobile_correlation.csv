@@ -1,0 +1,13 @@
+COUNTRY,n,deposit_correlation_perc,mobile_correlation_perc,deposit_acc_conclusion,mobile_money_acc_conclusion
+Botswana,5,94.52,50.99,"94.52% correlation with population growth","50.99% correlation with population growth"
+Comoros,5,99.18,93.21,"99.18% correlation with population growth","93.21% correlation with population growth"
+Eswatini,5,88.83,69.75,"88.83% correlation with population growth","69.75% correlation with population growth"
+Lesotho,5,96.26,74.76,"96.26% correlation with population growth","74.76% correlation with population growth"
+Madagascar,5,91.13,97.01,"91.13% correlation with population growth","97.01% correlation with population growth"
+Malawi,4,56.89,98.28,"56.89% correlation with population growth","98.28% correlation with population growth"
+Mauritius,5,83.59,73.95,"83.59% correlation with population growth","73.95% correlation with population growth"
+Namibia,5,63.35,96.35,"63.35% correlation with population growth","96.35% correlation with population growth"
+Seychelles,5,86.49,0.74,"86.49% correlation with population growth","0.74% correlation with population growth"
+"South Africa",4,98.97,14.09,"98.97% correlation with population growth","14.09% correlation with population growth"
+Zambia,5,95.85,86.75,"95.85% correlation with population growth","86.75% correlation with population growth"
+Zimbabwe,5,22.88,39.44,"22.88% correlation with population growth","39.44% correlation with population growth"

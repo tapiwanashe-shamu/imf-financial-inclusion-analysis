@@ -1,0 +1,12 @@
+category,description,value
+COMPLETENESS,Total number of fields (columns),66
+COMPLETENESS,Total number of records (rows),7490
+COMPLETENESS,Number of records with at least 3 blank/null year fields,5930
+COMPLETENESS,Average number of blank/null year fields per record,11.44
+COMPLETENESS,% of records with all year fields blank/null,23.16
+ACCURACY,Rows with non-numeric entries in 2004 - 2024,1055
+ACCURACY,Rows with non-numeric entries in 2004 - 2024 (% of SADC records),14.09
+ACCURACY,Rows with wrong data types,1205
+ACCURACY,Rows with wrong data types (% of SADC records),16.09
+UNIQUENESS,Number of duplicate records,5992
+UNIQUENESS,Number of duplicate records (%),80
