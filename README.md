@@ -1,4 +1,4 @@
-# IMF Financial Inclusion Analysis of Southern Africa
+# IMF Financial Inclusion Analysis of Southern Africa (2025) 
 ![IMF Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/500px-IMF-Seal_ENG_RGB.svg.png)
 ## EXECUTIVE SUMMARY
 
@@ -23,7 +23,7 @@ The analysis focuses on **five key areas**:
 **Time frame:** *2020–2024*
 
 ### Overview of Findings
-
+![Dashboard Page 1](images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0001.jpg)
 The findings reveal a **regional shift towards mobile money channels**, **stagnant gender parity**, and **strained banking infrastructure** in several markets.  
 While mobile adoption surged during that period, **active user engagement declined post-COVID-19**, suggesting potential market fatigue or policy misalignment.
 
