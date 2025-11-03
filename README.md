@@ -1,5 +1,5 @@
 # IMF Financial Inclusion Analysis
-
+![IMF Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/500px-IMF-Seal_ENG_RGB.svg.png)
 ## EXECUTIVE SUMMARY
 
 The **International Monetary Fund (IMF) Financial Access Survey (FAS)** is a global dataset that tracks **access and usage of financial services**. Since its launch in 2009, it has collected supply-side data from financial service providers, producing key indicators that guide policy decisions, business strategies, and international benchmarking for financial inclusion.  
