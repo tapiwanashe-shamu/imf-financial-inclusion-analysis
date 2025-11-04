@@ -10,13 +10,13 @@ The objective is to **identify key shifts, disparities, and opportunities - as w
 ### Data Structure
 The analysis focuses on **five key areas**:
 
-| Focus Area | Questions | Metrics |
+| Focus Area | Questions | Key Metrics |
 |-------------|--------------|--------------|
-| **1. Market Expansion** | Which sectors are most dominant? Traditional Banking or Mobile Money? | Comparison of traditional banking vs. mobile money using 5-year CAGR and correlation with population growth |
-| **2. Gender Parity** | Has financial inclusion improved or worsened for female Depositors & Borrowers? | Trends in Gender Parity Index (GP) for depositors and borrowers, annual improvement, and projected time to parity |
-| **3. Banking Infrastructure Efficiency** | Which markets achieved higher financial inclusion with fewer touchpoints? | Depositors per infrastructure point, depositors per 100,000 adults, total infrastructure per 100,000 adults (ATMs, branches, agents) |
-| **4. SME Credit Trends** | What's the rate at which SME Lending has improved in the region? | Measured via the Loan-to-Deposit Ratio (LDR) |
-| **5. Mobile User Maturation** | Are registered users becoming more active over time? | Share of active vs. registered accounts and each country’s share of SADC mobile transaction volume |
+| **1. Market Expansion** | Which sectors are most dominant between Traditional Banking vs Mobile Money? <br>How much of the changes can be explained by population growth per country? | - 5Y Compound Annual Growth Rate <br>- R-squared model (regression analysis) |
+| **2. Gender Parity** | Has financial inclusion improved or worsened for female Depositors & Borrowers? | - Gender Parity Index (GPI) <br>- Average Annual Parity Improvement <br>- Projected Years to Parity |
+| **3. Banking Infrastructure Efficiency** | Which markets achieved higher financial inclusion with fewer touchpoints? | - Depositors per 100,000 adults <br>- Total infrastructure per 100,000 adults (ATMs, branches, agents) <br>- Efficiency Ratio (Depositors per Infrastructure point) |
+| **4. SME Credit Trends** | What's the rate at which SME Lending has improved in the region? | - Loan-to-Deposit Ratio (LDR) |
+| **5. Mobile User Maturation** | Are registered users becoming more active over time? <br>Which regions have the most activity? | - Proportion of Registered accounts with active status <br> Proportion of SADC mobile transaction volume per country|
 
 **Countries assessed:**  
 *Angola, Botswana, Comoros, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Zambia, Zimbabwe.*  
