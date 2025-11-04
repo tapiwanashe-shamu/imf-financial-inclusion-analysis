@@ -42,7 +42,7 @@ While mobile adoption surged during that period, **active user engagement declin
 
 ### 4. SME Credit Trends
 - The regional **median Loan-to-Deposit Ratio (LDR)** was **0.7 in 2024**, meaning $0.70 was lent for every $1 deposited.  
-- **Namibia**’s LDR of **2.54** reflects **aggressive lending beyond deposits**. Despite liquidity concerns, banks remain **regulatorily compliant**, supported by strong central bank oversight.
+- **Namibia**’s LDR of **2.54** reflects **aggressive lending beyond deposits**. Despite liquidity concerns, Namibian banks are reported to be stable and strongly supported by central bank oversight.
 
 ### 5. Mobile User Maturity
 - While registered accounts rose sharply, **active accounts declined significantly after 2022**, signaling **lower engagement**.  
