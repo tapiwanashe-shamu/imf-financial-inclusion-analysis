@@ -57,12 +57,12 @@ While mobile adoption surged during that period, **active user engagement declin
 - Encourage mobile activity through reduced transaction fees, loyalty programs, and simplified digital onboarding, especially in markets in need of recovery.
 
 ### Limitations & Assumptions of Analysis
-- Some data gaps may affect accuracy of insights.  
+- Data gaps may affect accuracy of insights.  
 - The time period was limited to 2020–2024 for recency and manageability of the analysis.  
 - South Africa’s 2024 data was unavailable.  
-- Data entry inconsistencies from source agencies may have influenced trend accuracy.  
+- Data entry inconsistencies from source agencies may have affected trend accuracy.  
 - Broader global economic factors beyond COVID-19 were excluded for scope clarity.
 
 ---
 
-## Further Analysis
+## Further Reading 
