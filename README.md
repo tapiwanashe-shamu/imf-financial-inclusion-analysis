@@ -45,10 +45,11 @@ While mobile adoption surged during that period, **active user engagement declin
 - **Namibia**’s LDR of **2.54** reflects **aggressive lending beyond deposits**. Despite liquidity concerns, Namibian banks are reported to be stable and strongly supported by central bank oversight.
 
 ### 5. Mobile User Maturity
-- While registered accounts rose sharply, **active accounts declined significantly after 2022**, signaling **lower engagement**.  
-- This points to **trust issues, high transaction costs**, or **digital engagement fatigue** across several markets.
+- While registered accounts rose sharply, **active accounts remained stagnant after 2022**, signaling **lower engagement**.  
+- This may be due to the effects of the post-pandemic period as restrictions were lifted, high transaction costs or digital engagement fatigue across several markets
 
 ### Recommendations
+
 
 - Banks should pivot toward mobile money partnerships and interoperable platforms to remain competitive, particularly in underserved markets.
 - Regulators and institutions should review financial inclusion frameworks, incentivize women-led enterprise funding, and ensure targeted lending programs.
