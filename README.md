@@ -7,7 +7,7 @@ The **International Monetary Fund (IMF) Financial Access Survey (FAS)** is a glo
 This project relies on SQL analysis to explore **financial access trends in Southern Africa from 2020–2024**, analyzing how it evolved across **14 countries** on a dataset containing 195k records. This was prepared independently for 2 weeks to clean and analyse data in SQL, with dashboards built using Power BI to visualise trends related to the selected regions and periods.
 The objective is to **identify key shifts, disparities, and opportunities - as well as provide actionable recommendations** for financial executives, policymakers, and development stakeholders, focusing on investment strategies in Southern Africa.  
 
-### Data Structure
+### Scope & Data Structure
 The analysis focuses on **five key areas**:
 
 | Focus Area | Questions | Key Metrics |
