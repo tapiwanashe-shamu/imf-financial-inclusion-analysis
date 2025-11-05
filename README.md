@@ -43,7 +43,7 @@ Finally, the results of the analysis were exported as CSVs, imported into Power 
 The project then concluded at the visualisation stage, where the results from SQL data were transformed into dashboards with line charts, cards and map visuals for effective insights. 
 
 ### Overview of Findings
-![Dashboard Page 1](images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0001.jpg)
+![Dashboard Overview](images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0001.jpg)
 The findings reveal a **regional shift towards mobile money channels**, **stagnant gender parity**, and **strained banking infrastructure** in several markets.  
 While mobile adoption surged during that period, **active user engagement declined post-COVID-19**, suggesting potential market fatigue or policy misalignment.
 
@@ -86,4 +86,14 @@ While mobile adoption surged during that period, **active user engagement declin
 
 ---
 
-## Further Reading 
+## DEEP DIVE INSIGHTS AND RECOMMENDATIONS (FURTHER READING) 
+
+### 1. Market Dominance: Traditional Banking or Mobile Money? 
+![1. Banking vs Mobile Findings](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0002.jpg ) 
+***Note:** According to the IMF, Mobile Money is a financial service offered to its clients by a mobile network operator or another entity that partners with mobile network operators, **independent** of the traditional banking network.*
+
+- From 2020-2024, the Compound Annual Growth Rate (CAGR) of Bank Deposit Accounts per 1,000 adults reached a high of 48% in Madagascar and Eswatini, signalling a large rise of people creating bank accounts in these countries. However, the rest of the region has had a relatively slow improvement (at most 9%), the lowest being Seychelles with -3%, indicating a migration from banking services in the country.
+- In contrast, the CAGR of Mobile Money Accounts per 1,000 adults has a narrower spread between countries, with 8 countries experiencing growth of at least 5%. This suggests a consistent growth of mobile money accounts across Southern Africa
+- A side-to-side analysis reveals that traditional banking has a higher growth rate in only 4 of the 12 countries shown. This suggests the rising wave of mobile money as an alternative in the past 5 years, although this may have been due to the effect of Covid-19 restrictions. This largely affected banks, which relied on in-person banking processes,and thus gave mobile money operators a competitive advantage, as they are easier to set up and operate remotely.
+
+- There is a need for banking services to invest more in resources that expand mobile banking channels, partnering with mobile money operators to capture their customer base, and streamline processes that enable users to create accounts at a faster and more efficient rate. 
