@@ -7,7 +7,7 @@ The **International Monetary Fund (IMF) Financial Access Survey (FAS)** is a glo
 This project relies on SQL analysis to explore **financial access trends in Southern Africa from 2020–2024**, analyzing how it evolved across **14 countries** on a dataset containing 195k records. This was prepared independently for 2 weeks to clean and analyse data in SQL, with dashboards built using Power BI to visualise trends related to the selected regions and periods.
 The objective is to **identify key shifts, disparities, and opportunities - as well as provide actionable recommendations** for financial executives, policymakers, and development stakeholders, focusing on investment strategies in Southern Africa.  
 
-### Project Scope
+### Project Themes & Metrics
 The analysis focuses on **five key areas**:
 
 | Focus Area | Questions | Key Metrics |
@@ -21,6 +21,26 @@ The analysis focuses on **five key areas**:
 **Countries assessed:**  
 *Angola, Botswana, Comoros, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Zambia, Zimbabwe.*  
 **Time frame:** *2020–2024*
+
+### Data Analysis Process (Quality Checks, Cleaning & Final Data Structure) 
+
+Before the data cleaning and analysis process, checks were conducted in MySQL to assess the quality of the data for Southern Africa, as well as gain familiarity of the dataset. The following results were found from the data quality tests:
+
+![Data Quality Results](/images/data_quality.PNG) 
+
+To review the SQL queries utilised to inspect and perform the data quality checks, [click here.](imf_data_quality_script.sql)
+
+Given the state of the results, rigorous data cleaning was conducted to remove duplicates and redundant columns, fill in blank information, split up columns and standardise the data. The queries used to clean and prepare the data for analysis can be found [here.](imf_data_cleaning_script.sql) 
+
+Next was the data analysis stage, we're the key questions under the Project Themes & Metrics section were referenced, as well as the metrics required to surface the key insights. The SQL script for this section can be found [here.](imf_data_analysis_script.sql) 
+
+Finally, the results of the analysis were exported as CSVs, imported into Power BI and connected together via a Data Modelling process, as shown by the following Entity-Relationship Diagram:
+
+![Data Modelling Structure](/images/data_structure.PNG)
+
+***Please Note:** Exporting SQL results to CSV is not considered best practice, but in this case it was done for the sake of project visibility*
+
+The project then concluded at the visualisation stage, where the results from SQL data were transformed into dashboards with line charts, cards and map visuals for effective insights. 
 
 ### Overview of Findings
 ![Dashboard Page 1](images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0001.jpg)
