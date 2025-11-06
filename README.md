@@ -171,3 +171,8 @@ While mobile adoption surged during that period, **active user engagement declin
 - Regulators and providers should diversify their product value by prioritising micro-investments, insurance, or digital savings products to sustain engagement beyond basic transfers, as well as partner with banking institutions to leverage their utility in different services. 
 - Many dormant accounts may belong to users who registered but lacked digital or financial literacy to sustain activity. Providers and governments with low active account volumes should invest in targeted awareness campaigns that focus on safe usage, digital confidence, and financial empowerment.
 - With Zimbabwe contributing over a third of the region’s mobile transactions, the ecosystem is overly dependent on a few high-activity markets. Other countries should revitalise digital financial service ecosystems through improved agent coverage, lower transaction costs, and better interoperability between banks and wallets.
+
+---
+
+## SUMMARY
+Southern Africa’s financial systems are digitalizing at a steady pace, but structural imbalances still remain. Mobile money is outpacing traditional banking, yet engagement quality, gender parity, and infrastructure capacity continue to constrain inclusive growth. With this in mind, there is a need for strategic coordination among banks, policymakers, and digital platforms, which will be essential to unlocking sustainable financial inclusion in the region. To access the pdf containing the visualisations used in this file, [click here.](IMF_SADC_Financial_Access_Dashboard_2025.pdf) 
