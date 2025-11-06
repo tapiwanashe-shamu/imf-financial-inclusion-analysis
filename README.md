@@ -146,6 +146,6 @@ While mobile adoption surged during that period, **active user engagement declin
 - Banks in Namibia and Zimbabwe must replicate the efforts pushed in Botswana and Madagascar, by redirecting capital expenditure projects of branches to mobile banking and agents in rural areas to broaden their access coverage and grab a larger market share. 
 
 ---
-### 4. SME Credit Evolution: Which markets achieved higher financial inclusion with fewer physical touchpoints? 
+### 4. SME Credit Evolution: Has SME lending increased or decreased relative to deposits? 
 ![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0005.jpg )
  
