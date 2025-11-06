@@ -108,8 +108,8 @@ While mobile adoption surged during that period, **active user engagement declin
 **Insights:**
 - As of 2024,the average Gender Parity Index of Southern Africa stood at 76.8% for Depositors, and 73.9% for borrowers. This means that on average, approximately 3 out of 4 women have as many bank deposit and loan accounts as men. In addition, at its current rate, Gender Parity is expected to be achieved in 14-15 years. 
 - However, the pace at which this has improved over time has become stagnant. The average annual improvement rate for Depositors in SADC stood at - 2.2%, meaning less women are creating deposit accounts annually. For borrowers, the average rate is at 1.6%, signally a limited but steady improvement for female borrower access.
-- The main driver for the dip in Depositor access is in Madagascar, where the high growth of Deposit accounts were mostly due to a rise in male registrations. This resulted in a sharp decline of their rate of improvement by -16.4%.
-- In contrast, Zimbabwe's drive in lending programmes to female account holders had pushed up the regional average for borrower improvement, as they experienced an 18% annual increase, leading to a borrower parity of 120.8% in 2024. This means more women in Zimbabwe have loan accounts than their male counterparts by 20%.
+- The main driver for the dip in Depositor improvement is in Madagascar. With a population of over 30 million, the country experienced a high growth of Deposit accounts in the past 5 years, but majority of the new accounts are owned by males. This resulted in a sharp decline of their rate of improvement by -16.4%.
+- In contrast, Zimbabwe's drive in lending programmes to female account holders had pushed up the regional average for borrower improvement, as they experienced an 18% annual increase in loan accounts owned by females, leading to a borrower parity of 120.8% in 2024. This means more women in Zimbabwe have loan accounts than their male counterparts by 20%.
 - The summarised table for the trend in Gender Parity across countries is shown below:
 
 | Country | Depositor Parity Trend| Borrower Parity Trend |
