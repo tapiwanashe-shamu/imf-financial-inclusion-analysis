@@ -133,5 +133,6 @@ While mobile adoption surged during that period, **active user engagement declin
 ---
 ### 3. Infrastructure Trend: Which markets achieved higher financial inclusion with fewer physical touchpoints? 
 ![3. Infrastructure Trend Analysis](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0004.jpg )
+***Note:** The Infrastructure Efficiency Ratio measures the number of Deposit accounts at each financial service outlet (i.e. a bank branch, ATM or agent). This can give guidance on the saturation of a market, its capacity of infrastructure to accommodate depositers, or its range of access in an area.* 
 
 **Insights:**
