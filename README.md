@@ -130,6 +130,8 @@ While mobile adoption surged during that period, **active user engagement declin
 - Introduce incentive based savings products for women e.g. low fee accounts, group saving schemes, or matched savings programs, in order to mobilise efforts to regain demand amongst female clients.
 - Replicate gender-focused credit programs such as micro-lending for women entrepreneurs, credit guarantee schemes, and capacity-building support for women-led SMEs.  
 
+---
+### 3. Infrastructure Trend: Which markets achieved higher financial inclusion with fewer physical touchpoints? 
+![3. Infrastructure Trend Analysis](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0004.jpg )
 
-
-
+**Insights:**
