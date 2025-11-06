@@ -102,8 +102,8 @@ While mobile adoption surged during that period, **active user engagement declin
 - There is a need for banking services to invest more in resources that expand mobile banking channels, partnering with mobile money operators to capture their customer base, allow smoother transfers and broader financial inclusion, and streamline processes that enable users to create accounts at a faster and more efficient rate. 
 - Further analysis may need to be conducted to investigate the main drivers behind the growth (and decline) rates of deposit and mobile money accounts in Seychelles, South Africa and Zimbabwe. 
 
-> [Click here](/results/1a_1b_imf_dominant_sector.csv) to access the csv for Market Dominance. 
-> [Click here](/results/1c_imf_deposit_mobile_correlation.csv) to access the csv for the regression analysis.
+> [Click here](/csv/1a_1b_imf_dominant_sector.csv) to access the csv for Market Dominance. <br>
+> [Click here](/csv/1c_imf_deposit_mobile_correlation.csv) to access the csv for the regression analysis.
 ---
 ### 2. Gender Parity: Has financial access improved or worsened for women? 
 ![2. Gender Parity Analysis](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0003.jpg )  
@@ -133,7 +133,7 @@ While mobile adoption surged during that period, **active user engagement declin
 - Introduce incentive based savings products for women e.g. low fee accounts, group saving schemes, or matched savings programs, in order to mobilise efforts to regain demand amongst female clients.
 - Replicate gender-focused credit programs such as micro-lending for women entrepreneurs, credit guarantee schemes, and capacity-building support for women-led SMEs.  
 
-> [Click here](/results/2_imf_gender_parity_commercial_banking.csv) to access the csv for Gender Parity. 
+> [Click here](/csv/2_imf_gender_parity_commercial_banking.csv) to access the csv for Gender Parity. 
 
 ---
 ### 3. Infrastructure Trend: Which markets achieved higher financial inclusion with fewer physical touchpoints? 
@@ -150,7 +150,7 @@ While mobile adoption surged during that period, **active user engagement declin
 - Mauritian banks must expand their respective brands to other regions, as their local branches are reaching a point of saturation (76 branches per 1000 km<sup>2</sup>). 
 - Banks in Namibia and Zimbabwe must replicate the efforts pushed in Botswana and Madagascar, by redirecting capital expenditure projects of branches to mobile banking and agents in rural areas to broaden their access coverage and grab a larger market share. 
 
-> [Click here](/results/3_imf_infrastructure_trend_commercial_banking.csv) to access the csv for Infrastructure Trend. 
+> [Click here](/csv/3_imf_infrastructure_trend_commercial_banking.csv) to access the csv for Infrastructure Trend. 
 
 ---
 ### 4. SME Credit Evolution: Has SME lending increased or decreased relative to deposits? 
@@ -165,7 +165,7 @@ While mobile adoption surged during that period, **active user engagement declin
 - To ensure caution for Namibian banks, they must strengthen liquidity stress testing and contingency funding plans, and monitor non-deposit funding sources to assess their long-term sustainability. Furthermore, they should be encouraged to realign their LDR towards the regional average through deposit mobilisation and  reduction of lending rates.
 - For the rest of the region, measures must be introduced to incentivize SME lendings, such as partial credit guarantees, as well as investing in regional SME credit facilities or risk-sharing platforms such as P2P (peer-to-peer) lending. 
 
-> [Click here](/results/4_imf_sme_credit_evolution.csv) to access the csv for SME Lending. 
+> [Click here](/csv/4_imf_sme_credit_evolution.csv) to access the csv for SME Lending. 
 
 ---
 ### 5. Mobile Money Activity: Are registered accounts becoming active users over time? 
@@ -181,7 +181,7 @@ While mobile adoption surged during that period, **active user engagement declin
 - Many dormant accounts may belong to users who registered but lacked digital or financial literacy to sustain activity. Providers and governments with low active account volumes should invest in targeted awareness campaigns that focus on safe usage, digital confidence, and financial empowerment.
 - With Zimbabwe contributing over a third of the region’s mobile transactions, the ecosystem is overly dependent on a few high-activity markets. Other countries should revitalise digital financial service ecosystems through improved agent coverage, lower transaction costs, and better interoperability between banks and wallets.
 
-> [Click here](/results/5_imf_mobile_money_maturation.csv) to access the csv for Mobile Money Activity. 
+> [Click here](/csv/5_imf_mobile_money_maturation.csv) to access the csv for Mobile Money Activity. 
 
 ---
 
