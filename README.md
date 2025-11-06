@@ -32,7 +32,7 @@ To review the SQL queries utilised to inspect and perform the data quality check
 
 Given the state of the results, rigorous data cleaning was conducted to remove duplicates and redundant columns, fill in blank information, split up columns and standardise the data. The queries used to clean and prepare the data for analysis can be found [here.](imf_data_cleaning_script.sql) 
 
-Next was the data analysis stage, we're the key questions under the Project Themes & Metrics section were referenced, as well as the metrics required to surface the key insights. The SQL script for this section can be found [here.](imf_data_analysis_script.sql) 
+Next was the data analysis stage, where the key questions under the Project Themes & Metrics section were referenced, as well as the metrics required to surface the key insights. The SQL script for this section can be found [here.](imf_data_analysis_script.sql) 
 
 Finally, the results of the analysis were exported as CSVs, imported into Power BI and connected together via a Data Modelling process, as shown by the following Entity-Relationship Diagram:
 
@@ -69,8 +69,6 @@ While mobile adoption surged during that period, **active user engagement declin
 - This may be due to the effects of the post-pandemic period as restrictions were lifted, high transaction costs or digital engagement fatigue across several markets
 
 ### Recommendations
-
-
 - Banks should pivot toward mobile money partnerships and interoperable platforms to remain competitive, particularly in underserved markets.
 - Regulators and institutions should review financial inclusion frameworks, incentivize women-led enterprise funding, and ensure targeted lending programs.
 - Focus investments in high-population, low-infrastructure markets (e.g., Madagascar) and saturated but underperforming systems (Namibia, Zimbabwe).
@@ -96,6 +94,26 @@ While mobile adoption surged during that period, **active user engagement declin
 - From 2020-2024, the Compound Annual Growth Rate (CAGR) of Bank Deposit Accounts per 1,000 adults reached a high of 48% in Madagascar and Eswatini, signalling a large rise of people creating bank accounts in these countries. However, the rest of the region has had a relatively slow improvement (at most 9%), the lowest being Seychelles with -3%, indicating a migration from banking services in the country.
 - In contrast, the CAGR of Mobile Money Accounts per 1,000 adults has a narrower spread between countries, with 8 countries experiencing growth of at least 5%. This suggests a consistent growth of mobile money accounts across Southern Africa. 
 - A side-to-side analysis reveals that traditional banking has a higher growth rate in only 4 of the 12 countries shown. This demonstrates the rising wave of mobile money as an alternative in the past 5 years, although this may have been due to the effect of Covid-19 restrictions. This largely affected banks, some of which relied on in-person banking processes,and thus gave mobile money operators a competitive advantage, as they are easier to set up and operate remotely.
+- A linear regression analysis was done on each CAGR of deposit and mobile money accounts per country, with additional data from the World Bank Population Indicator. The results found that despite having steady growth rates, Seychelles, South Africa and Zimbabwe have the lowest correlation to population growth, meaning the rise/decline of deposit or mobile money accounts from 2020-2024 were most likely caused by other factors than demographics, perhaps major policy adjustments or economic growth. 
 
 **Recommendations**
-- There is a need for banking services to invest more in resources that expand mobile banking channels, partnering with mobile money operators to capture their customer base, and streamline processes that enable users to create accounts at a faster and more efficient rate. 
+- The high banking growth in Eswatini and Madagascar may be due to efforts in expanding access to first time account owners. This may prove that outreach programs that focus on financial literacy and trust-building can yield strong results, and should be replicated in other countries. 
+- There is a need for banking services to invest more in resources that expand mobile banking channels, partnering with mobile money operators to capture their customer base, allow smoother transfers and broader financial inclusion, and streamline processes that enable users to create accounts at a faster and more efficient rate. 
+- Further analysis may need to be conducted to investigate the main drivers behind the growth (and decline) rates of deposit and mobile money accounts in Seychelles, South Africa and Zimbabwe. 
+
+---
+### 2. Gender Parity: Has financial access improved or worsened for women? 
+![2. Gender Parity Analysis](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0003.jpg )  
+
+**Insights:**
+- As of 2024,the average Gender Parity Index of Southern Africa stood at 76.8% for Depositors, and 73.9% for borrowers. This means that on average, approximately 3 out of 4 women have as many bank deposit and loan accounts as men.
+- However, the pace at which this has improved over time has become stagnant. The average annual improvement rate for Depositors in SADC stood at - 2.2%, meaning less women are creating deposit accounts annually. For borrowers, the average rate is at 1.6%, signally a limited but steady improvement for female borrower access.
+- The summarised table for the trend in Gender Parity across countries is shown below:
+
+
+
+
+
+
+
+
