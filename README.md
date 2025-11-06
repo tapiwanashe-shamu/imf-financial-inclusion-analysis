@@ -164,7 +164,10 @@ While mobile adoption surged during that period, **active user engagement declin
 
 **Insights:**
 - As shown by the image above, registered accounts in Southern Africa rose sharply from 74M users in 2021 to 126M in 2023. However, whilst the number of active accounts rose proportionally within the first year, it suddenly flattened in subsequent years, sitting around 45M as at 2024. A closer look at the data reveals a sharp decline of active users in South Africa around 2022-2023.
-- In terms of mobile transaction activity, Zimbabwe dominates with at least 35% of the region's total mobile transactions from 2020-2023. This followed by Zambia with at least %, followed by Mozambique with a minimum of %. 
+- In terms of mobile transaction activity, Zimbabwe dominates with at least 35% of the region's total mobile transactions from 2020-2023. This followed by Zambia with at least 11%, followed by Mozambique with a minimum of 7%. 
 
 **Recommendations:**
-- 
+
+- Regulators and providers should diversify their product value by prioritising micro-investments, insurance, or digital savings products to sustain engagement beyond basic transfers, as well as partner with banking institutions to leverage their utility in different services. 
+- Many dormant accounts may belong to users who registered but lacked digital or financial literacy to sustain activity. Providers and governments with low active account volumes should invest in targeted awareness campaigns that focus on safe usage, digital confidence, and financial empowerment.
+- With Zimbabwe contributing over a third of the region’s mobile transactions, the ecosystem is overly dependent on a few high-activity markets. Other countries, particularly South Africa, should revitalise digital financial service ecosystems through improved agent coverage, lower transaction costs, and better interoperability between banks and wallets.
