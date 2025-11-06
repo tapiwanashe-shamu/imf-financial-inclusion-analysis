@@ -144,3 +144,8 @@ While mobile adoption surged during that period, **active user engagement declin
 - Investors must aim for underrepresented markets with a distributed network of bank services, or those with huge potential for growth such as Namibia, Botswana and Madagascar. 
 - Mauritian banks must expand their respective brands to other regions, as their local branches are reaching a point of saturation (76 branches per 1000 km^2). 
 - Banks in Namibia and Zimbabwe must replicate the efforts pushed in Botswana and Madagascar, by redirecting capital expenditure projects of branches to mobile banking and agents in rural areas to broaden their access coverage and grab a larger market share. 
+
+---
+### 4. SME Credit Evolution: Which markets achieved higher financial inclusion with fewer physical touchpoints? 
+![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0005.jpg )
+ 
