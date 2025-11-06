@@ -148,4 +148,12 @@ While mobile adoption surged during that period, **active user engagement declin
 ---
 ### 4. SME Credit Evolution: Has SME lending increased or decreased relative to deposits? 
 ![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0005.jpg )
- 
+***Note:** The Loan-to-Deposit Ratio measures a bank's total loans to its total deposits, expressed as a percentage. It indicates a bank's ability and willingness to lend relative to the funds it holds in deposits. A ratio is calculated by dividing a bank's net loans by its total deposits. In this analysis the LDR ratio covers aggregate loans and deposits of all banks per country.*
+
+**Insights:**
+- The LDR Ratio data shows a mixed trend, with some countries reducing their level of lending, and some maintaining or increasing their level of lending relative to deposits. The median of LDR in Southern Africa stood at 0.7 in 2024, suggesting moderate friendliness in lending but still reflecting underutilisation of assets.
+- Namibian banks in particular increased their lending capacity to SMEs past the number of deposits available. As of 2024, the LDR ratio of Namibia stood at 2.54 (a $7.6 billion gap in 2024), suggesting that the sourcing of these loans come from other avenues other than deposits. Whilst this finding may raise serious concerns about liquidity of banks in Namibia, they are reported to be stable provided with strong support and oversight by the central bank. 
+
+**Recommendations:**
+- To ensure caution for Namibian banks, they must strengthen liquidity stress testing and contingency funding plans, and monitor non-deposit funding sources to assess their long-term sustainability. Furthermore, they should be encouraged to realign their LDR towards the regional average through deposit mobilisation and  reduction of lending rates.
+- For the rest of the region, measures must be introduced to incentivize SME lendings, such as partial credit guarantees, as well as investing in regional SME credit facilities or risk-sharing platforms such as P2P (peer-to-peer) lending. 
