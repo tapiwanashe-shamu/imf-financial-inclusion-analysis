@@ -79,7 +79,8 @@ While mobile adoption surged during that period, **active user engagement declin
 - Data gaps may affect accuracy of insights.  
 - The time period was limited to 2020–2024 for recency and manageability of the analysis.  
 - South Africa’s 2024 data was unavailable.  
-- Data entry inconsistencies from source agencies may have affected trend accuracy.  
+- Data entry inconsistencies from source agencies may have affected trend accuracy.
+- No monthly data available between years. Data is provided for an annual basis.  
 - Broader global economic factors beyond COVID-19 were excluded for scope clarity.
 
 ---
@@ -174,5 +175,5 @@ While mobile adoption surged during that period, **active user engagement declin
 
 ---
 
-## SUMMARY
+## CONCLUSION 
 Southern Africa’s financial systems are digitalizing at a steady pace, but structural imbalances still remain. Mobile money is outpacing traditional banking, yet engagement quality, gender parity, and infrastructure capacity continue to constrain inclusive growth. With this in mind, there is a need for strategic coordination among banks, policymakers, and digital platforms, which will be essential to unlocking sustainable financial inclusion in the region. To access the pdf containing the visualisations used in this file, [click here.](IMF_SADC_Financial_Access_Dashboard_2025.pdf) 
