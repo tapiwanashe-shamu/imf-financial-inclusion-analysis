@@ -118,7 +118,12 @@ While mobile adoption surged during that period, **active user engagement declin
 | **Botswana** | Fast improvement (2.3%) | Fast improvement (2.3%) |
 | **Comoros** | Fast improvement (3.4%) | Fast improvement (3.6%) |
 | **Lesotho** | Stagnant/Declining (-1.6%) | Moderate Improvement (1%) |
-| **Madagascar** | Stagnant/Declining (-16.4%) | Stagnant/Declining (-1.5%)|**Malawi** | Moderate Improvement (1%) | Stagnant/Declining (-4.4%) | **Mauritius** | Stagnant/Declining (-0.1%) | Moderate Improvement (0.9%) | **Namibia** | Stagnant/Declining (-6.8%) | Moderate Improvement (0.8%) | **Seychelles** | Stagnant/Declining (-0.3%) | Fast Improvement (2.3%) | **Zimbabwe** | Stagnant/Declining (-4.8%) | Fast Improvement (18%) | 
+| **Madagascar** | Stagnant/Declining (-16.4%) | Stagnant/Declining (-1.5%)|
+| **Malawi** | Moderate Improvement (1%) | Stagnant/Declining (-4.4%) |
+| **Mauritius** | Stagnant/Declining (-0.1%) | Moderate Improvement (0.9%) | 
+| **Namibia** | Stagnant/Declining (-6.8%) | Moderate Improvement (0.8%) | 
+| **Seychelles** | Stagnant/Declining (-0.3%) | Fast Improvement (2.3%) | 
+| **Zimbabwe** | Stagnant/Declining (-4.8%) | Fast Improvement (18%) | 
 
 
 
