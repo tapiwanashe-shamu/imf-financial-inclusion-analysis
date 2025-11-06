@@ -157,3 +157,7 @@ While mobile adoption surged during that period, **active user engagement declin
 **Recommendations:**
 - To ensure caution for Namibian banks, they must strengthen liquidity stress testing and contingency funding plans, and monitor non-deposit funding sources to assess their long-term sustainability. Furthermore, they should be encouraged to realign their LDR towards the regional average through deposit mobilisation and  reduction of lending rates.
 - For the rest of the region, measures must be introduced to incentivize SME lendings, such as partial credit guarantees, as well as investing in regional SME credit facilities or risk-sharing platforms such as P2P (peer-to-peer) lending. 
+
+---
+### 5. Mobile Money Activity: Are registered accounts becoming active users over time? 
+![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0006.jpg ) 
