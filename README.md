@@ -125,7 +125,10 @@ While mobile adoption surged during that period, **active user engagement declin
 | **Seychelles** | Stagnant/Declining (-0.3%) | Fast Improvement (2.3%) | 
 | **Zimbabwe** | Stagnant/Declining (-4.8%) | Fast Improvement (18%) | 
 
-
+**Recommendations:**
+- Countries with stagnating trends must review barriers to women’s access, such as collateral requirements, credit history policies, or legal constraints, and adopt more gender inclusive policies for national financial inclusion strategies, with the support of the central bank to reward financial institutions that demonstrate improved female outreach.
+- Introduce incentive based savings products for women e.g. low fee accounts, group saving schemes, or matched savings programs, in order to mobilise efforts to regain demand amongst female clients.
+- Replicate gender-focused credit programs such as micro-lending for women entrepreneurs, credit guarantee schemes, and capacity-building support for women-led SMEs.  
 
 
 
