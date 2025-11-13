@@ -172,7 +172,7 @@ While mobile adoption surged during that period, **active user engagement declin
 ![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0006.jpg ) 
 
 **Insights:**
-- As shown by the image above, registered accounts in Southern Africa rose sharply from 72.6M users in 2021 to 110.9M in 2023. However, whilst the number of active accounts rose proportionally within the first year, it suddenly flattened in subsequent years, sitting around 43.9M as at 2024. A closer look at the data reveals a sharp decline of active users in South Africa around 2022-2023 as the main driver, from 788.3k to 336.1k accounts.
+- As shown by the image above, registered accounts in Southern Africa rose sharply from 72.6M users in 2021 to 127.9M in 2023. However, whilst the number of active accounts rose proportionally within the first year, it suddenly flattened in subsequent years, sitting around 43.9M as at 2024. A closer look at the data reveals a sharp decline of active users in South Africa around 2022-2023 as the main driver, from 788.3k to 336.1k accounts.
 - In terms of mobile transaction activity, Zimbabwe dominates with at least 35% of the region's total mobile transactions from 2020-2023. This followed by Zambia with at least 11%, then Mozambique with a minimum of 7%. 
 
 **Recommendations:**
