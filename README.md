@@ -110,7 +110,7 @@ While mobile adoption surged during that period, **active user engagement declin
 
 **Insights:**
 - As of 2024, the average Gender Parity Index of Southern Africa stood at 76.8% for Depositors, and 73.9% for borrowers. This means that on average, approximately 3 out of 4 women have as many bank deposit and loan accounts as men. In addition, at its current rate, Gender Parity is expected to be achieved in 14-15 years. 
-- However, the pace at which this has improved over time has become stagnant. The average annual improvement rate for Depositors in SADC stood at - 2.2%, meaning less women are creating deposit accounts annually. For borrowers, the average rate is at 1.6%, signally a limited but steady improvement for female borrower access.
+- However, the pace at which this has improved over time has become stagnant. The average annual improvement rate for Depositors in SADC stood at - 2.2%, meaning less women are creating deposit accounts annually. For borrowers, the average rate is at 1.6%, signalling a limited but steady improvement for female borrower access.
 - The main driver for the dip in Depositor improvement is in Madagascar. With a population of over 30 million, the country experienced a high growth of Deposit accounts in the past 5 years, but majority of the new accounts are owned by males. This resulted in a sharp decline of their rate of improvement by -16.4%.
 - In contrast, Zimbabwe's drive in lending programmes to female account holders had pushed up the regional average for borrower improvement, as they experienced an 18% annual increase in loan accounts owned by females, leading to a borrower parity of 120.8% in 2024. This means more women in Zimbabwe have loan accounts than their male counterparts by 20%.
 - The summarised table for the trend in Gender Parity across countries is shown below:
@@ -172,8 +172,8 @@ While mobile adoption surged during that period, **active user engagement declin
 ![4. SME Credit Trends](/images/IMF_SADC_Financial_Access_Dashboard_2025_pages-to-jpg-0006.jpg ) 
 
 **Insights:**
-- As shown by the image above, registered accounts in Southern Africa rose sharply from 74M users in 2021 to 126M in 2023. However, whilst the number of active accounts rose proportionally within the first year, it suddenly flattened in subsequent years, sitting around 45M as at 2024. A closer look at the data reveals a sharp decline of active users in South Africa around 2022-2023.
-- In terms of mobile transaction activity, Zimbabwe dominates with at least 35% of the region's total mobile transactions from 2020-2023. This followed by Zambia with at least 11%, followed by Mozambique with a minimum of 7%. 
+- As shown by the image above, registered accounts in Southern Africa rose sharply from 72.6M users in 2021 to 110.9M in 2023. However, whilst the number of active accounts rose proportionally within the first year, it suddenly flattened in subsequent years, sitting around 43.9M as at 2024. A closer look at the data reveals a sharp decline of active users in South Africa around 2022-2023, from 788.3k active users, to 336.1k the following year.
+- In terms of mobile transaction activity, Zimbabwe dominates with at least 35% of the region's total mobile transactions from 2020-2023. This followed by Zambia with at least 11%, then Mozambique with a minimum of 7%. 
 
 **Recommendations:**
 
