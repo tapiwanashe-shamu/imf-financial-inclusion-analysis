@@ -1,4 +1,4 @@
-# IMF Financial Inclusion Analysis of Southern Africa (2025) 
+# Financial Inclusion Analysis of Banks and Mobile Money in Southern Africa (2025) 
 ![IMF Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF-Seal_ENG_RGB.svg/500px-IMF-Seal_ENG_RGB.svg.png)
 ## EXECUTIVE SUMMARY
 
